@@ -1,0 +1,19 @@
+{
+  "name": "night-owl-prism-theme",
+  "version": "1.0.0",
+  "description": "Night Owl Prism theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisnager/night-owl-prism-theme.git"
+  },
+  "author": "Chris Nager",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisnager/night-owl-prism-theme/issues"
+  },
+  "homepage": "https://github.com/chrisnager/night-owl-prism-theme#readme"
+}
